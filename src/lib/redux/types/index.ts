@@ -1,0 +1,16 @@
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const REGISTER = 'REGISTER'
+export const SET_TOKEN = 'SET_TOKEN'
+
+export const GET_USER_LIST = 'GET_USER_LIST'
+export const GET_USER = 'GET_USER'
+export const CREATE_USER = 'CREATE_USER'
+export const UPDATE_USER = 'UPDATE_USER'
+export const DELETE_USER = 'DELETE_USER'
+
+export const GET_NEWS_LIST = 'GET_NEWS_LIST'
+export const GET_NEWS = 'GET_NEWS'
+export const CREATE_NEWS = 'CREATE_NEWS'
+export const UPDATE_NEWS = 'UPDATE_NEWS'
+export const DELETE_NEWS = 'DELETE_NEWS'

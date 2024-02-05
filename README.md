@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Create .env.local file with code below
+```
+NEXT_PUBLIC_TARGET_API = 'https://reqres.in/api'
+```
+
 
 First, run the development server:
 
